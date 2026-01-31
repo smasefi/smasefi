@@ -1,16 +1,18 @@
-## Hi there 👋
+# ✨✨Welcome to my Github✨✨
 
-<!--
-**smasefi/smasefi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💘☀️👛🐣
 
-Here are some ideas to get you started:
+## 💘 About me 💘
+I'm a double hoo! Go UVA! I got my undergrad degree in Computer Science with a minor in Religious Studies for the fun of it. After leaving Charlottesville, I joined a big bank as a Software Engineer (still here 😅) and dove head-first into post-grad life. No homework, no problems… until I realized I suddenly had too much free time and a suspiciously large intellectual void. Naturally, I fixed that by pursuing my M.S. in Data Science (also at UVA), where I fell in love with data, modeling, and turning messy problems into something measurable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work and school, you’ll find me reading thrillers, taking Solidcore classes, and walking my dog. It’s basic—but basics are popular for a reason.
+
+## ⚡ My Skills ⚡
+
+Languages: Python, SQL, Java
+
+Focus Areas: Software Engineering, Data Science, Analytics, Modeling
+
+Tools & Tech: You’ll see those throughout my repos ↓
+
+Well… you can explore the rest below 😉
