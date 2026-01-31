@@ -2,7 +2,7 @@
 
 ## 💘 About Me 💘
 
-I'm a double hoo! Go UVA! I got my undergrad degree in Computer Science with a minor in Religious Studies for the fun of it. After leaving Charlottesville, I joined a big bank as a Software Engineer (still here 😅) and dove head-first into post-grad life. No homework, no problems… until I realized I had too much free time and a gaping intellectual void. Naturally, I fixed that by pursuing my M.S. in Data Science (also at UVA), where I fell in love with data, modeling, and turning messy problems into something measurable.
+I'm a double hoo! Go UVA! I got my undergrad degree in Computer Science with a minor in Religious Studies for a fun humanities twist to my education. After leaving Charlottesville, I joined a big bank as a Software Engineer (still here 😅) and dove head-first into post-grad life. No homework, no problems… until I realized I had too much free time and a gaping intellectual void. Naturally, I fixed that by pursuing my M.S. in Data Science (also at UVA), where I fell in love with data, modeling, and turning messy problems into something measurable.
 
 Outside of work and school, you’ll find me reading thrillers, taking Solidcore classes, and walking my dog. It’s basic, but I believe basics are popular for a reason.
 
